@@ -7,15 +7,59 @@
   "files": [
     {
       "path": "hmclversion.cfg",
-      "hash": "85c16e3da70b296bb553c8dcf37440ea945f6037"
+      "hash": "33aa0ef6fca2f7913077a72e769da86e72a2b47e"
+    },
+    {
+      "path": "mods/CreativeCore_FORGE_v2.6.9_mc1.18.2.jar",
+      "hash": "95763629c9b22573d82de6569e491a7edf3fc540"
+    },
+    {
+      "path": "mods/[JEI物品管理器] jei-1.18.2-9.5.5.174.jar",
+      "hash": "b71de00db67a88eb63a957a0bfb21e8867e12dae"
+    },
+    {
+      "path": "mods/[属性修复] AttributeFix-Forge-1.18.2-14.0.1.jar",
+      "hash": "b53c4515a5aefc631fa484384a8679ae69e3d673"
+    },
+    {
+      "path": "mods/[旅行地图] journeymap-1.18.2-5.8.4-forge.jar",
+      "hash": "b14580856a627ad9847720ad95a243aaaa3ef745"
+    },
+    {
+      "path": "mods/[树叶快速腐烂] FastLeafDecay-28.jar",
+      "hash": "1005968a5f60863168156efbf0ed7e05137d6ab2"
+    },
+    {
+      "path": "mods/[经验机制改革] Clumps-forge-1.18.2-8.0.0+8.jar",
+      "hash": "09f702445fb8ec8954318747c282ca84c093a63b"
+    },
+    {
+      "path": "mods/[苹果皮] appleskin-forge-mc1.18-2.4.0.jar",
+      "hash": "36c297edae79cd9c33ce3cdb2230bc36fd9523f0"
+    },
+    {
+      "path": "mods/[连接纹理] CTM-1.18.2-1.1.4+4.jar",
+      "hash": "217b3c751aa14ed1cd2a34f7686ab2673445fb4c"
+    },
+    {
+      "path": "mods/[连锁挖掘] diggusmaximus-1.5.4-1.18.jar",
+      "hash": "6f19fe54f4ed3c2b6a8f51874040ad5831f317a7"
+    },
+    {
+      "path": "mods/[键位冲突显示] Controlling-forge-1.18.2-9.0+19.jar",
+      "hash": "1d132397933e3553d4dca886b7331faafc93d814"
+    },
+    {
+      "path": "mods/[鼠标手势] MouseTweaks-forge-mc1.18-2.21.jar",
+      "hash": "dc64a2a0df9b205114768a89482fe57ffac54143"
     },
     {
       "path": "options.txt",
-      "hash": "86f4b3d271162a8272e48677be166f13023fcbe4"
+      "hash": "9b6e0133c41533bdaf5d06454ba255dd2a3d13b9"
     },
     {
       "path": "optionsof.txt",
-      "hash": "2ac488f1e1953064b043f475d0659476c6d0d77f"
+      "hash": "d1079874f2ad568af7c6600ad14f50ee6e663ab7"
     },
     {
       "path": "optionsshaders.txt",
@@ -30,6 +74,10 @@
     {
       "id": "game",
       "version": "1.18.2"
+    },
+    {
+      "id": "forge",
+      "version": "40.1.20"
     },
     {
       "id": "optifine",
