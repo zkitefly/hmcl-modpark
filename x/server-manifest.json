@@ -1,14 +1,10 @@
 {
   "name": "Zkitefly",
   "author": "Zkitefly",
-  "version": "1.1",
-  "description": "",
-  "fileApi": "https://gitee.com/bleaker/modpack/raw/master/s",
+  "version": "1.0",
+  "description": "https://zkitefly.github.io/modpark/x/x.zip",
+  "fileApi": "https://zkitefly.github.io/modpark/x",
   "files": [
-    {
-      "path": "servers.dat",
-      "hash": "a54605ecb6c919f6c63499186f7908f54e5b0db9"
-    },
     {
       "path": "hmclversion.cfg",
       "hash": "85c16e3da70b296bb553c8dcf37440ea945f6037"
@@ -18,20 +14,16 @@
       "hash": "86f4b3d271162a8272e48677be166f13023fcbe4"
     },
     {
-      "path": "log4j2.xml",
-      "hash": "d47d254675d1aee18670aece5ed768e1e631517b"
-    },
-    {
-      "path": "servers.dat_old",
-      "hash": "12cb385e481efc6e9d3f7a40e01874cb87d45a28"
-    },
-    {
       "path": "optionsof.txt",
       "hash": "2ac488f1e1953064b043f475d0659476c6d0d77f"
     },
     {
       "path": "optionsshaders.txt",
       "hash": "7f042184ec54194edf8522d9335e65523e4c4752"
+    },
+    {
+      "path": "servers.dat",
+      "hash": "a54605ecb6c919f6c63499186f7908f54e5b0db9"
     }
   ],
   "addons": [
