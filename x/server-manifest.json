@@ -1,13 +1,13 @@
 {
   "name": "Zkitefly",
   "author": "Zkitefly",
-  "version": "2.0",
-  "description": "https://zkitefly.github.io/modpark/x/x.zip",
-  "fileApi": "https://zkitefly.github.io/modpark/x",
+  "version": "1.0",
+  "description": "",
+  "fileApi": "https://zkitefly.github.io/x",
   "files": [
     {
       "path": "hmclversion.cfg",
-      "hash": "33aa0ef6fca2f7913077a72e769da86e72a2b47e"
+      "hash": "85c16e3da70b296bb553c8dcf37440ea945f6037"
     },
     {
       "path": "mods/CreativeCore_FORGE_v2.6.9_mc1.18.2.jar",
@@ -55,7 +55,7 @@
     },
     {
       "path": "options.txt",
-      "hash": "9b6e0133c41533bdaf5d06454ba255dd2a3d13b9"
+      "hash": "424b2fe57306f69c0f342ea09b8a5f14a13356ab"
     },
     {
       "path": "optionsof.txt",

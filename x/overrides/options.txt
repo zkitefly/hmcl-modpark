@@ -38,7 +38,7 @@ biomeBlendRadius:2
 renderClouds:fast
 resourcePacks:["vanilla","programer_art"]
 incompatibleResourcePacks:[]
-lastServer:
+lastServer:127.127.127.0:50844
 lang:zh_cn
 soundDevice:
 chatVisibility:0
@@ -69,7 +69,7 @@ glDebugVerbosity:1
 skipMultiplayerWarning:true
 skipRealms32bitWarning:false
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 hideBundleTutorial:false
 syncChunkWrites:false
 showAutosaveIndicator:true
@@ -154,7 +154,7 @@ key_key.jei.nextRecipePage:key.keyboard.page.down
 key_key.jei.previousCategory:key.keyboard.page.up:SHIFT
 key_key.jei.nextCategory:key.keyboard.page.down:SHIFT
 key_key.jei.copy.recipe.id:key.keyboard.unknown
-soundCategory_master:1.0
+soundCategory_master:0.0
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
